@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "shallow-pretzels",
+    "slug": "snack-dcb11878-6f32-4089-a50d-8a7ac788bfc5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      
+        "package": "com.srivastavaharshit051.TodoApp",
+      "versionCode": 1
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Login"
+  }
+}
